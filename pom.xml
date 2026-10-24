@@ -13,7 +13,7 @@
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Paper-API-Version: bei Bedarf anpassen (siehe README) -->
-        <paper.version>26.3.build.+</paper.version>
+        <paper.version>[26.2.build,)</paper.version>
     </properties>
 
     <repositories>
